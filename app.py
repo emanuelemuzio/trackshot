@@ -32,7 +32,7 @@ def research():
     driver.quit()
 
 window = tk.Tk()
-window.title("TrackShoot")
+window.title("TrackShot")
 window.resizable(width=False, height=False)
 
 bg_frame = tk.Frame(
