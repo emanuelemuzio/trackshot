@@ -6,4 +6,6 @@ Piccolo script per il controllo dei prezzi, può essere usato con tkinter lancia
 
 ## Dipendenze
 
-Tkinter, Selenium, chromedriver
+Tkinter (dovrebbe essere subito disponibile per l'utilizzo)
+Selenium (pip install selenium)
+chromedriver (https://chromedriver.chromium.org/downloads)
